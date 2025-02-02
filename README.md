@@ -19,7 +19,7 @@ Web browser (e.g., Chrome, Firefox, Safari)
 Text editor (e.g., Visual Studio Code, Sublime Text)
 Installation
 Clone the repository:
-git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
+git clone https://github.com/Moinuddinchhipa/eLearning-Website-.git
 Open the project in your preferred text editor.
 Launch the index.html file in a web browser.
 Technologies Used
