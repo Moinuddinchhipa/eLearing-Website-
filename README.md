@@ -27,13 +27,21 @@ Before you begin, ensure you have the following prerequisites:
 
 Web browser (e.g., Chrome, Firefox, Safari)
 Text editor (e.g., Visual Studio Code, Sublime Text)
-Installation
 
-Clone the repository:
+
+Installation & Setup
+
+Follow these steps to set up and run the project:
+
+Clone the Repository:
+
 git clone https://github.com/Moinuddinchhipa/eLearning-Website-.git
 
-Open the project in your preferred text editor.
-Launch the index.html file in a web browser.
+Open the Project in your preferred text editor.
+
+Launch the Application by opening index.html in a web browser.
+
+
 Technologies Used
 HTML
 CSS
